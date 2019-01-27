@@ -31,3 +31,7 @@ li:hover {
     border: thick solid white;
     background-color: lightgrey;
 }
+p {
+    font-family: "Verdana", Times, serif;
+}
+

@@ -1,7 +1,27 @@
+
 body {
-    color: blue;
+    background-color: lavender;
   }
   
-  h1 {
-    color: green;
+
+  p {
+    font-family: "Verdana", Times, serif;
+
+}
+
+
+b { 
+    font-weight: bold;
   }
+
+
+#backArrow{
+    height: 100px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
