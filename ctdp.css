@@ -1,0 +1,18 @@
+body{
+    background-color: blue
+}
+#logo {
+    width: 15%;
+    height: 25%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    width: 60px;
+}
